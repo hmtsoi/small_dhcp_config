@@ -1,0 +1,1 @@
+sudo update-rc.d firewall_1.sh defaults
